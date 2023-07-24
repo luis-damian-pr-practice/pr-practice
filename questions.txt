@@ -3,8 +3,9 @@ Luis: Purple
 Damian: Blue
 Question 2: What is your favorite programming language?
 Damian: JS
-
+Luis: JavaScript
 Question 3: What is your favorite food?
+Luis: Hot Wings
 
 Question 4: What is your favorite movie?
 
