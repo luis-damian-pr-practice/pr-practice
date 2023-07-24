@@ -1,7 +1,8 @@
 Question 1: What is your favorite color?
 Luis: Purple
-
+Damian: Blue
 Question 2: What is your favorite programming language?
+Damian: JS
 
 Question 3: What is your favorite food?
 
