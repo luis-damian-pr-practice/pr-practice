@@ -6,8 +6,9 @@ Damian: JS
 Luis: JavaScript
 Question 3: What is your favorite food?
 Luis: Hot Wings
-
+Damian: Ramen
 Question 4: What is your favorite movie?
+Damian: Don't Be a Menace to South Central While Drinking Your Juice in the Hood
 
 Question 5: What is your favorite book?
 
